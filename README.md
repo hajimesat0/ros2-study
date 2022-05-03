@@ -17,5 +17,5 @@ docker pull takasehideki/ros2-desktop-vnc:foxy
 ```sh
 ./docker_run.sh
 ```
-
+http://localhost:6080へアクセスすると、起動したコンテナ内のデスクトップ画面を確認できる
 
